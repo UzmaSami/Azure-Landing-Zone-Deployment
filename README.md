@@ -9,7 +9,7 @@ enterprise workload deployment.
 
 *Engineer:* Uzma Shabbir | AZ-104 | AZ-500
 *Framework:* Microsoft CAF + Azure Security Benchmark
-*IaC:* Bicep templates included
+*IaC:* Bicep templates included 
 
 ## 🏛️ Landing Zone Layers
 

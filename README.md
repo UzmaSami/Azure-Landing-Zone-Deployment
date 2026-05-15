@@ -38,8 +38,7 @@ enterprise workload deployment.
 - Log Analytics — 90 day retention
 - Security contacts configured
 
-## 🚀 Quick Deploy
-bash
+
 # Deploy with Bicep
 az deployment sub create \
   --location uksouth \
@@ -50,7 +49,7 @@ az deployment sub create \
 ## 💡 Key Differentiator
 This Landing Zone includes *Bicep IaC templates*
 making it deployable in any new subscription in
-minutes — exactly what enterprise clients need.
+minutes.
 
 ## 👩‍💻 Author
 *Uzma Sami*

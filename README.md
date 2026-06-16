@@ -838,6 +838,6 @@ az deployment sub create \
 ---
 
 Uzma Shabbir
-Cloud Security Engineer | AZ-104 | AZ-500
+Azure Security Engineer | AZ-104 | AZ-500
 [GitHub](https://github.com/UzmaSami) •
 [LinkedIn](https://linkedin.com/in/uzma-shabbir-034361128)
